@@ -15,18 +15,23 @@ Phylum scans packages in open-source repositories, identifying threats, risks an
 build tools to help developers and the organizations they work for block attacks, malware, and 
 vulnerabilities from entering their software development lifecycle.
 
-## Open-Source Projects
+😄 [Sign-up for a **free** Phylum account](https://app.phylum.io) and start identifying and blocking risks in your software projects.
 
-### Phylum CLI
-### Birdcage (Cross-platform Execution Sandbox)
+## 🔧 Open-Source Projects
 
-## Find Us Online
+### [Phylum CLI](https://github.com/phylum-dev/cli)
+The Phylum CLI provides direct access to the Phylum platform. Create and submit project lockfiles/manifest files (e.g., `package-lock.json`, `requirements.txt`, etc.)
+
+### [Birdcage](https://github.com/phylum-dev/birdcage) (Cross-platform Execution Sandbox)
+A cross-platform sandbox used in the Phylum CLI to provide a locked down environment for package installation.
+
+## 🌐 Find Us Online
 * [Twitter](https://twitter.com/Phylum_IO)
 * [Mastadon](https://infosec.exchange/@phylum)
 * [LinkedIn](https://www.linkedin.com/company/phylum-io/)
 * [Discord](https://discord.gg/Fe6pr5eW6p)
 
-## 2023: Softare Supply Chain Attack Reporting
+## 🧟‍♂️ 2023: Softare Supply Chain Attack Reporting
 We have successfully identified numerous supply chain attacks. So far in 2023 we've reported on:
 * [Nascent Malware Campaign Targets npm, PyPI, and RubyGems Developers](https://blog.phylum.io/malware-campaign-targets-npm-pypi-and-rubygems-developers/)
 * [Dormant npm Package Update Targets Ethereum Private Keys](https://blog.phylum.io/dormant-npm-package-update-targets-ethereum-private-keys/)
