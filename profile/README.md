@@ -33,6 +33,10 @@ A cross-platform sandbox used in the Phylum CLI to provide a locked down environ
 
 ## 🧟‍♂️ 2023: Softare Supply Chain Attack Reporting
 We have successfully identified numerous supply chain attacks. So far in 2023 we've reported on:
+* [SeroXen RAT in Typosquatted NuGet Package](https://blog.phylum.io/phylum-discovers-seroxen-rat-in-typosquatted-nuget-package/)
+* [Cloud Provider Credentials Targeted in New PyPI Malware Campaign](https://blog.phylum.io/cloud-provider-credentials-targeted-in-new-pypi-malware-campaign/)
+* [Sensitive Data Exfiltration Campaign Targets npm and PyPI](https://blog.phylum.io/sensitive-data-exfiltration-campaign-targets-npm-and-pypi/)
+* [Large Typosquat Campaign Targeting React and Angular](https://blog.phylum.io/large-typosquat-campaign-targeting-react-and-angular/)
 * [Nascent Malware Campaign Targets npm, PyPI, and RubyGems Developers](https://blog.phylum.io/malware-campaign-targets-npm-pypi-and-rubygems-developers/)
 * [Dormant npm Package Update Targets Ethereum Private Keys](https://blog.phylum.io/dormant-npm-package-update-targets-ethereum-private-keys/)
 * [Cryptocurrency Miner Masquerading as GCC Compiler Found in NPM Package](https://blog.phylum.io/cryptocurrency-miner-masquerading-as-gcc-compiler-found-in-npm-package/)
